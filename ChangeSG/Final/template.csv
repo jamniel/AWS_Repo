@@ -1,0 +1,5 @@
+Action,IP,SecurityGroup1,SecurityGroup2,SecurityGroup3,SecurityGroup4,SecurityGroup5
+add,172.31.5.11,add_1,,,,
+add,172.31.9.195,Windows Server,aaa,,,
+del,172.31.22.212,add_1,Windows Server,bbb,,
+add,172.31.22.201,Windows Server,JumpserverSG,default,add_1,
