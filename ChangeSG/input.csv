@@ -1,0 +1,5 @@
+Name,SecurityGroup1,SecurityGroup2,SecurityGroup3,SecurityGroup4,SecurityGroup5
+ServerName1,sg1,sg2,sg3,sg4,
+SRCxxxxxx,sg1,sg2,,,
+SRCxxxxxx,,sg2,sg3,,
+SRCxxxxxx,sg1,sg2,,,

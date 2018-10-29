@@ -1,0 +1,3 @@
+IP,SecurityGroup1,SecurityGroup2,SecurityGroup3,SecurityGroup4,SecurityGroup5
+172.31.17.180,Windows Server,replace_2,,,
+172.31.22.201,add_1,replace_1,,,
